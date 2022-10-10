@@ -12,7 +12,7 @@ BB meals have the highest order report.
 
 Transient customers have higher patronage.
 
-2)A RECOMMENDATION OF A SHORTLIST OF 5 AGENTS.
+A RECOMMENDATION OF A SHORTLIST OF 5 AGENTS.
 
 This analysis is to help us determine which top 5 agents  to recommend to our client.
 
